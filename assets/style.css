@@ -1,0 +1,28 @@
+.card{
+
+}
+
+.card-body{
+    justify-content: space-around;
+    background-color: aqua;
+    color: black;
+    border-radius: 15px;
+    
+
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.card-title{
+    background-color: red;
+    color: black;
+    text-align: center;
+}
+
+.card-text{
+    padding: auto;
+}
