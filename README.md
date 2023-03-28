@@ -12,21 +12,23 @@ A Node.js application that can be used to generate employee rosters. The applica
 
 ## Installation
 
-The setup and initiating of the application is done using the inline terminal. A user first has to install Node.js followed by installing Inquirer. The program then needs to be started using npm start. After that the user just has to follow the prompts until finished. Then an html document will be produced.
-
+The setup and initiating of the application is done using the inline terminal. A user first has to install Node.js followed by installing Inquirer. 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+There are a series of tests that can be run to insure that the code is operating as intended. The program then needs to be started using npm start. After that the user just has to follow the prompts until finished. Then an html document will be produced.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![runnning tests](/assets/images/test.png)
+![follow prompts](/assets/images/prompts.png)
+![generated html](/assets/images/html.png)
+![deployed html](/assets/images/deployed.png)
 
 ## Credits
 
 Kaz Nyborg-Andersen https://github.com/kaznyborg
 Bootstrap
 Inquirer version 8.2.4
+Jest
 
 ## License
 
